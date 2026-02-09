@@ -14,7 +14,7 @@ Aquí se almacenan los ejercicios desarrollados en clase, su análisis de soluci
 
 ## 📂 Estructura del repositorio
 
-###📁 Semana 1
+### 📁 Semana 1
 
 Contenido:
 
@@ -29,7 +29,7 @@ prueba técnica de la semana 1
 👉 En esta semana se trabajaron los conceptos iniciales de análisis de problemas y estructuración de algoritmos
 
 
-###📁 Semana 2
+### 📁 Semana 2
 
 Contenido:
 
@@ -42,7 +42,7 @@ ejercicios de las diapositivas
 
 👉 En esta semana se profundizó en el diseño de soluciones y en la representación formal de algoritmos.
 
-##⚙️ Tecnologías utilizadas
+## ⚙️ Tecnologías utilizadas
 
 🐍 Python 3
 
@@ -52,7 +52,7 @@ ejercicios de las diapositivas
 
 📄 README.md
 
-##📝 Actualizaciones
+## 📝 Actualizaciones
 
 Se organizó el repositorio por semanas.
 
