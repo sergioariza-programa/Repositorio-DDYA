@@ -1,4 +1,4 @@
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e5c3e6f-e555-4383-b261-8cf95f26e100" />
 
 # 📘 DDYA – Diseño de Datos y Algoritmos
 
