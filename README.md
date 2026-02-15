@@ -65,6 +65,8 @@ Se agregó la carpeta Semana 1 con la prueba técnica, ejercicios y diagramas.
 
 Se agregó la carpeta Semana 2 con actividades, diseño del problema de estudiantes y diagramas.
 
+Se agregó la carpeta Semana 3 con actividades, resumen de semana 4 y laboratorio.
+
 Se actualizó el README para mejorar la presentación y organización del proyecto.
 
 ## Autor
