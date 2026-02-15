@@ -43,9 +43,13 @@ ejercicios de las diapositivas
 
 ### 📁 Semana 3
 
+Contenido: 
+
 Resumen_Semana_4.pdf
 
 Laboratorio_Semana_3.pdf
+
+👉 En esta semana se profundizó en el analisis de algoritmos que implementaban el teorema maestro y recursion.
 
 ## ⚙️ Tecnologías utilizadas
 
