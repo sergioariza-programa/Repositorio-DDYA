@@ -1,4 +1,4 @@
-﻿<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e5c3e6f-e555-4383-b261-8cf95f26e100" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e5c3e6f-e555-4383-b261-8cf95f26e100" />
 
 # 📘 DDYA – Diseño de Datos y Algoritmos
 
@@ -9,7 +9,6 @@ Aquí se almacenan los ejercicios desarrollados en clase, su análisis de soluci
 
 ## 🧭 Descripción general
 
-
 ---
 
 ## 📂 Estructura del repositorio
@@ -18,60 +17,57 @@ Aquí se almacenan los ejercicios desarrollados en clase, su análisis de soluci
 
 Contenido:
 
-ejercicios propuestos en clase
+- Ejercicios propuestos en clase
+- Análisis de cada solución
+- Diagramas de flujo
+- Prueba técnica de la semana 1
 
-análisis de cada solución
+👉 En esta semana se trabajaron los conceptos iniciales de análisis de problemas y estructuración de algoritmos.
 
-diagramas de flujo
-
-prueba técnica de la semana 1
-
-👉 En esta semana se trabajaron los conceptos iniciales de análisis de problemas y estructuración de algoritmos
-
+---
 
 ### 📁 Semana 2
 
 Contenido:
 
-actividades de la semana 2
-
-diseño del problema de los estudiantes
-
-ejercicios de las diapositivas
+- Actividades de la semana 2
+- Diseño del problema de los estudiantes
+- Ejercicios de las diapositivas
 
 👉 En esta semana se profundizó en el diseño de soluciones y en la representación formal de algoritmos.
 
+---
+
 ### 📁 Semana 3
 
-Contenido: 
+Contenido:
 
-Resumen_Semana_4.pdf
+- Resumen_Semana_4.pdf
+- Laboratorio_Semana_3.pdf
 
-Laboratorio_Semana_3.pdf
+👉 En esta semana se profundizó en el análisis de algoritmos aplicando recursión y el Teorema Maestro.
 
-👉 En esta semana se profundizó en el analisis de algoritmos que implementaban el teorema maestro y recursion.
+---
 
 ## ⚙️ Tecnologías utilizadas
 
-🐍 Python 3
+- 🐍 Python 3  
+- 🧑‍💻 Visual Studio Code  
+- 🌱 Git y GitHub  
+- 📄 README.md  
 
-🧑‍💻 Visual Studio Code
-
-🌱 Git y GitHub
-
-📄 README.md
+---
 
 ## 📝 Actualizaciones
 
-Se organizó el repositorio por semanas.
+- Se organizó el repositorio por semanas.
+- Se agregó la carpeta **Semana 1** con la prueba técnica, ejercicios y diagramas.
+- Se agregó la carpeta **Semana 2** con actividades, diseño del problema de estudiantes y diagramas.
+- Se agregó la carpeta **Semana 3** con el resumen y el laboratorio.
+- Se actualizó el README para mejorar la presentación y organización del proyecto.
 
-Se agregó la carpeta Semana 1 con la prueba técnica, ejercicios y diagramas.
-
-Se agregó la carpeta Semana 2 con actividades, diseño del problema de estudiantes y diagramas.
-
-Se agregó la carpeta Semana 3 con actividades, resumen de semana 4 y laboratorio.
-
-Se actualizó el README para mejorar la presentación y organización del proyecto.
+---
 
 ## Autor
+
 Sergio Alejandro Ariza Ocampo
