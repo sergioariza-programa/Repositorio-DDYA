@@ -42,8 +42,10 @@ ejercicios de las diapositivas
 👉 En esta semana se profundizó en el diseño de soluciones y en la representación formal de algoritmos.
 
 ### 📁 Semana 3
-   Resumen_Semana_4.pdf
-   Laboratorio_Semana_3.pdf
+
+Resumen_Semana_4.pdf
+
+Laboratorio_Semana_3.pdf
 
 ## ⚙️ Tecnologías utilizadas
 
