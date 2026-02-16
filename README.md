@@ -44,6 +44,7 @@ Contenido:
 
 - Resumen_Semana_4.pdf
 - Laboratorio_Semana_3.pdf
+- Ejercicios
 
 👉 En esta semana se profundizó en el análisis de algoritmos aplicando recursión y el Teorema Maestro.
 
