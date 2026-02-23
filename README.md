@@ -48,7 +48,23 @@ Contenido:
 
 👉 En esta semana se profundizó en el análisis de algoritmos aplicando recursión y el Teorema Maestro.
 
----
+### 📁 Semana 4  
+Contenido:
+
+- Implementación del algoritmo de agrupación utilizando Programación Dinámica
+- Archivo de pruebas (`tests.in`)
+- Documento del laboratorio Semana 4
+- Explicación del algoritmo mediante video (10 min)
+
+🎥 Video explicativo del laboratorio:
+
+Debido al tamaño del archivo multimedia, el video fue alojado externamente 
+como contenido no listado en YouTube.
+
+🔗 https://youtu.be/Y-N1vxIqxB4
+
+👉 En esta semana se implementó una solución óptima al problema de agrupación de estudiantes utilizando programación dinámica, 
+incluyendo el proceso de reconstrucción de la solución mediante backtracking.
 
 ## ⚙️ Tecnologías utilizadas
 
