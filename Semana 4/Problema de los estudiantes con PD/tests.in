@@ -1,0 +1,12 @@
+0 => valor_maximo 0.0
+2 Ana 3 Bob 4 => valor_maximo 14.0
+3 1 A 5 B 4 C 1 => valor_maximo 10.0
+3 2 A 5 B 4 C 1 => valor_maximo 19.0
+4 4 A 1 B 1 C 1 D 1 => valor_maximo 16.0
+2 0 Ana 3 Bob 4 => Error:
+2 3 Ana 3 Bob 4 => Error:
+1 Ana 5.5 => Error:
+2 Ana 3 => Error:
+ => Error:
+3 2 A 0 B 5 C 5 => valor_maximo 40.0
+4 2 A 5 B 5 C 1 D 1 => valor_maximo 42.0
