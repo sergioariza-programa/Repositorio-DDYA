@@ -93,6 +93,19 @@ En esta semana se trabajaron ejercicios de estructuras de datos y pilas, junto c
 
 ---
 
+### 📁 Semana 8
+
+Contenido:
+
+- Diseño de pacientes
+- Desarrollo del notebook correspondiente
+- Análisis y organización del problema propuesto en clase
+
+👉 En esta semana se trabajó el diseño y modelado del problema de pacientes, organizando la solución en un notebook para su análisis y desarrollo.
+
+---
+---
+
 ## Tecnologias utilizadas
 
 - Python 3
@@ -112,7 +125,7 @@ En esta semana se trabajaron ejercicios de estructuras de datos y pilas, junto c
 - Se agrego la carpeta **Semana 4** con el laboratorio y el enlace del video explicativo.
 - Se agrego la carpeta **Semana 7** con ejercicios de pilas, colas y programacion competitiva en Python.
 - Se actualizo el README para mejorar la presentacion y organizacion del proyecto.
-
+- Se agregó la carpeta **Semana 8** con el notebook **Diseño pacientes.ipynb**.
 ---
 
 ## Autor
